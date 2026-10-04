@@ -1,18 +1,20 @@
 Day 01 - Interview Questions
 
-# Day 01 - Interview Questions
+# 28/09/2026 - OOPS
 
 ---
 
-## 1. What is Python?
+## 1. What is a Class?
 
-Python is a high-level, interpreted, and general-purpose programming language.
+A class is a blueprint or template used to create objects.
+It contains data (attributes) and functions (methods) that define the properties and behavior of objects.
 
 ---
 
-## 2. What is Artificial Intelligence?
+## 2. What is an Object?
 
-Artificial Intelligence (AI) is the simulation of human intelligence in machines.
+An object is an instance of a class.
+It is created using the class and can access the attributes and methods defined inside the class.
 
 ---
 
