@@ -18,3 +18,9 @@
    2.The object gets the structure and properties defined by the class.
    3.The object can access the class methods and attributes.
    4.If an __init__() method is present, it is automatically executed.
+
+## 5. What are the states of an object?
+  An object generally goes through  three states:
+   1.Creation State – The object is created.
+   2.Active/Working State – The  object is being used to perform  operations.
+   3.Destruction State – The object  is removed from memory.
