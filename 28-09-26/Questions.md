@@ -18,17 +18,33 @@ It is created using the class and can access the attributes and methods defined 
 
 ---
 
-## 3. What is Machine Learning?
-Machine Learning is a branch of AI that enables machines to learn from data and make predictions or decisions.
+## 3. What is the self parameter?
+self is a parameter that refers to the current object.
+
+It is used to access the attributes and methods of the current object.
 
 ---
 
-## 4. What is Deep Learning?
-Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers to learn from large amounts of data.
+## 4. What happens when you create an object?
+When an object is created:
+
+1.Memory is allocated for the object.
+
+2.The object gets the structure and properties defined by the class.
+
+3.The object can access the class methods and attributes.
+
+4.If an __init__() method is present, it is automatically executed.
 
 ---
 
-## 5. What is Data Science?
-Data Science is the field of extracting useful insights and knowledge from data using statistics, programming, and machine learning.
+## 5. What are the states of an object?
+An object generally goes through three states:
+
+1.Creation State – The object is created.
+
+2.Active/Working State – The object is being used to perform operations.
+
+3.Destruction State – The object is removed from memory.
 
 ---
