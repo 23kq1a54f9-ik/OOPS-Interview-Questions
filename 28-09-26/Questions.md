@@ -6,13 +6,15 @@ Day 01 - Interview Questions
 
 ## 1. What is a Class?
 A class is a blueprint or template used to create objects.
- It contains data (attributes) and functions (methods) that define the properties and behavior of objects.
+ 
+It contains data (attributes) and functions (methods) that define the properties and behavior of objects.
 
 ---
 
 ## 2. What is an Object?
 An object is an instance of a class.
- It is created using the class and can access the attributes and methods defined inside the class.
+ 
+It is created using the class and can access the attributes and methods defined inside the class.
 
 ---
 
